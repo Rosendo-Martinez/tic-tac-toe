@@ -107,7 +107,7 @@ const Round = (function() {
     return {getCurrentPlayer, isRoundOver, resetRound, getRoundWinner, setNextPlayer}
 })();
 
-// Module: Display Controller 
+// Module: Display Controller
 (function() {
     const gameBoardMessage = document.querySelector('.gameboard-message');
     const cells = document.querySelectorAll('.cell');
