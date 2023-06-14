@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
 
 [Link to live demo.](https://rosendo-martinez.github.io/tic-tac-toe/) 👈
 
