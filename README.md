@@ -12,4 +12,4 @@ This project implements **modules**, **factory functions**, and **IIFE**!
 &ensp;
 ![Screenshot](imgs/sc3.png)
 
-This project is an assignment from TOP's fullstack Javascript developer program. 
+This project is an assignment from [TOP's fullstack Javascript developer program](https://www.theodinproject.com/paths/full-stack-javascript). 
